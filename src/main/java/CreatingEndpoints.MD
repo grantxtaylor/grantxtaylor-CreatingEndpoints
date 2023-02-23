@@ -47,7 +47,7 @@ Note: the number 9000 above represents the port that our web application will be
 
 ### Step 2: Defining Endpoints
 Now that we have a webserver that continuously runs, we need to define endpoints that users and other applications 
-can send HTTP Requests to.
+can send ff HTTP Requests to.
 
 The syntax for creating an endpoint is as follows:
 ```java
